@@ -6,3 +6,4 @@
 
 Welcome to my Nix Config, for the moment I didn't rice it so I only have my programs and that stuff
 If you're searching for a REAL riced config go search another person's, this is only a primitive one yet
+```
