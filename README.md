@@ -4,6 +4,8 @@
  / ___ \| |  __/>  < / __/|__   _/ /   \__ \ | |__| |_| | |\  |  _|  | | |_| |
 /_/   \_\_|\___/_/\_\_____|  |_|/_/    |___/  \____\___/|_| \_|_|   |___\____|
 
-Welcome to my Nix Config, for the moment I didn't rice it so I only have my programs and that stuff
-If you're searching for a REAL riced config go search another person's, this is only a primitive one yet
+Welcome to my Nix Config, for the moment I didn't rice it so I only have my programs
+and that stuff
+If you're searching for a REAL riced config go search another person's,
+this is only a primitive one yet
 ```
